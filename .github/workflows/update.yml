@@ -27,7 +27,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          pip install s5cmd PyYaml
+          pip install s5cmd PyYaml requests
 
           python $REPO_DIR/code/update.py
 
