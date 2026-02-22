@@ -11,7 +11,7 @@ def _run(base_directory: pathlib.Path, /) -> None:
     response = requests.get(url)
     content_id_to_dandiset_paths = json.loads(gzip.decompress(data=response.content))
 
-    content_id_to_unique_dandiset_path: dict[str, dict[str, list[str]]] = dict()
+    content_id_to_unique_dandiset_path: dict[str, dict[str, str]] = dict()
     multiple_dandisets: dict[str, dict[str, list[str]]] = dict()
     multiple_paths_same_dandiset: dict[str, dict[str, list[str]]] = dict()
 
@@ -25,7 +25,7 @@ def _run(base_directory: pathlib.Path, /) -> None:
             multiple_paths_same_dandiset[content_id] = {dandiset_id: paths}
             continue
 
-        content_id_to_unique_dandiset_path[content_id] = {dandiset_id: paths}
+        content_id_to_unique_dandiset_path[content_id] = {dandiset_id: paths[0]}
 
     outputs = {
         "content_id_to_unique_dandiset_path.yaml": content_id_to_unique_dandiset_path,
