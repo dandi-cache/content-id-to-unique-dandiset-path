@@ -14062,10 +14062,6 @@ beaad3d1-9290-45e5-b86c-c04a5a995b7a:
   '000026':
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS02_stain-Nuclei_chunk-29_SPIM.json
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS40_stain-Nuclei_chunk-29_SPIM.json
-beb0e67a-3621-4989-adfd-fa0297ef1037:
-  '001712':
-  - sub-FD-28/sub-FD-28_image+ophys/fb2a0a60-262b-4644-961b-5ebd7f3fc32c_external_file_0.mp4
-  - sub-FD-28/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_ecephys+image/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_VideoBodyCamera.mp4
 bee595c6-0d90-4b1f-8132-7259fdbc98c0:
   '000026':
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS20_stain-Somatostatin_chunk-02_SPIM.json
@@ -15014,10 +15010,6 @@ cbaa069b-bf77-47a1-a887-ecc60383791d:
   '000026':
   - sub-I60/ses-SPIM/micr/sub-I60_ses-SPIM_sample-BrocaAreaS36_stain-Nuclei_chunk-02_SPIM.json
   - sub-I60/ses-SPIM/micr/sub-I60_ses-SPIM_sample-BrocaAreaS50_stain-Nuclei_chunk-02_SPIM.json
-cbadd14d-34f9-4963-bb79-a44cad7c19b3:
-  '001712':
-  - sub-FD-28/sub-FD-28_image+ophys/77e88cc2-793e-4f91-831d-8cb030b5215f_external_file_0.mp4
-  - sub-FD-28/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_ecephys+image/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_VideoRightCamera.mp4
 cbb68ecd-dd2b-4e89-b6ad-fdff2fa1d63f:
   000946:
   - sub-BH535/sub-BH535_ses-20231225T191400_ecephys.nwb
@@ -18436,10 +18428,6 @@ f4dfd420-27ec-4032-8f10-fddb541c377d:
   '000026':
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS20_stain-NeuN_chunk-39_SPIM.json
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS35_stain-NeuN_chunk-39_SPIM.json
-f4e753ab-16c8-454c-80f2-e69416ad6986:
-  '001712':
-  - sub-FD-28/sub-FD-28_image+ophys/00cae26f-1713-4da5-b2a3-fd7cee295b6a_external_file_0.mp4
-  - sub-FD-28/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_ecephys+image/sub-FD-28_ses-81f90b18-e61c-4d32-bbce-3e0c5f33f06c_VideoLeftCamera.mp4
 f4e9c427-3925-404a-876c-269477c53bc8:
   '000026':
   - sub-I48/ses-OCT/micr/sub-I48_ses-OCT_sample-BrocaAreaS01_OCT.json
