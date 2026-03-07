@@ -782,6 +782,13 @@
   - sub-MG221018/micr/sub-MG221018_sample-slide2section5MGN_acq-20x_stain-DAPIandAlexa488_FLUO.tif
   '001344':
   - sub-MG221018/micr/sub-MG221018_sample-slide2section5MGN_acq-20x_stain-DAPIandAlexa488_FLUO.tif
+1fd73fe9-6f75-46eb-adfe-aa633a230924:
+  001278:
+  - .bidsignore
+  '001372':
+  - .bidsignore
+  '001707':
+  - .bidsignore
 1fd91533-cf0b-417a-ad85-779fdca32343:
   000293:
   - sub-1903-19129058/sub-1903-19129058_icephys.nwb
