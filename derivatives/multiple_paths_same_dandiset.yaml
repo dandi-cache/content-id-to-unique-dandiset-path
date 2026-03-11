@@ -4846,14 +4846,6 @@
   000568:
   - sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16-no-raw-data_behavior+ecephys+image/d8e982fb-2064-4c41-8505-f96d319ac42d_external_file_1.avi
   - sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16_behavior+ecephys+image/31185c31-4d1f-4316-bcee-dc88b24a2404_external_file_1.avi
-4e2cd095-ccf9-47f7-85f4-65049646ef13:
-  '001437':
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b17p3k64dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b23p7k64dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b31p3k64dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b49p4k64dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b60p0k64dir_dir-AP_dwi.bvec
 4e2e0129-2f9c-4a47-8761-94dadadcc1a9:
   '000026':
   - sub-I60/ses-SPIM/micr/sub-I60_ses-SPIM_sample-BrocaAreaS27_stain-Calretinin_chunk-41_SPIM.json
@@ -13580,10 +13572,6 @@ d2b77ae7-b171-443f-b1ff-c74f816f8c3e:
   '000026':
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS03_stain-Nuclei_chunk-05_SPIM.json
   - sub-I38/ses-SPIM/micr/sub-I38_ses-SPIM_sample-BrocaAreaS11_stain-Nuclei_chunk-05_SPIM.json
-d2bc8442-5e5f-4f15-a940-b07a7b86c9d5:
-  '001437':
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b4p0k32dir_dir-AP_dwi.bvec
-  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b7p4k32dir_dir-AP_dwi.bvec
 d2c8ee5b-567d-4632-893b-f423b57791f1:
   000559:
   - sub-dls-dlight-11/sub-dls-dlight-11_ses-keypoint-dls-dlight-11_image+ophys/4bdb549d-155b-492e-8c86-d9d4540a7d35_external_file_2.avi
@@ -15249,6 +15237,15 @@ eb133675-2b1e-49bd-9a00-4d362a738b62:
   '001452':
   - dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-error-examples/invalid_asl003/sub-Sub1/perf/sub-Sub1_asllabeling.jpg
   - dandi-env/Lib/site-packages/bidsschematools/tests/data/bids-examples/asl003/sub-Sub1/perf/sub-Sub1_asllabeling.jpg
+eb239d54-5e83-4599-b6d3-60e46fde8b70:
+  '001437':
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b11p8k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b17p3k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b23p7k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b31p3k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b39p8k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b49p4k64dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b60p0k64dir_dir-AP_dwi.bvec
 eb3d93fa-394a-4565-8865-bb674f5cd029:
   '000026':
   - sub-I60/ses-SPIM/micr/sub-I60_ses-SPIM_sample-BrocaAreaS38_stain-Nuclei_chunk-03_SPIM.json
@@ -16167,6 +16164,10 @@ f3440824-51e8-48b0-b273-ad82aecb1f7b:
   000946:
   - sub-BH513/sub-BH513_ses-20231007T184600_ecephys.nwb
   - sub-BH513/sub-BH513_ses-20231007T184612_ecephys.nwb
+f3739dec-dafa-4bf9-8b2b-b57f8edb060e:
+  '001437':
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b4p0k32dir_dir-AP_dwi.bvec
+  - sub-HCPA1/ses-MRI/dwi/sub-HCPA1_ses-MRI_acq-b7p4k32dir_dir-AP_dwi.bvec
 f3743b8f-60a5-4ead-992b-cb5c5ba8a3c8:
   000946:
   - sub-BH501/sub-BH501_ses-20231028T170600_ecephys.nwb
